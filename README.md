@@ -10,6 +10,10 @@
 ###
 
 [![MyAnimeList](https://upload.wikimedia.org/wikipedia/commons/7/7a/MyAnimeList_Logo.png)](https://myanimelist.net/profile/madrugada3_)
+<a href="https://myanimelist.net/profile/madrugada3_">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/MyAnimeList_Logo.png" width="120px" alt="MyAnimeList">
+</a>
+
 
 
 
