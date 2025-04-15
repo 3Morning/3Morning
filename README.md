@@ -9,8 +9,7 @@
 
 ###
 <a href="https://myanimelist.net/profile/madrugada3_">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/MyAnimeList_Logo.png" width="50px" alt="MyAnimeList"> 
-  <p>madrugada3_</p> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/MyAnimeList_Logo.png" width="50px" alt="MyAnimeList"> <h3>madrugada3_</h3>
 </a>
 
 
