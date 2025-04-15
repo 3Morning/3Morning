@@ -2,7 +2,7 @@
 
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀![Static Badge](https://img.shields.io/badge/madrugada3__-blue?style=for-the-badge&logo=myanimelist&logoSize=auto&link=https%3A%2F%2Fmyanimelist.net%2Fprofile%2Fmadrugada3_)
 
-
+<details align="center">
     <summary>
       <samp>
         <b>Info</b>
