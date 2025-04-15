@@ -9,7 +9,11 @@
 
 ###
 
-[![MyAnimeList Watching](https://mal-readme-stats.vercel.app/api/watching?username=madrugada3_)](https://myanimelist.net/profile/madrugada3_)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/3morning/3morning/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/3morning/3morning/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/3morning/3morning/output/pacman-contribution-graph.svg">
+</picture>
 
 
 ###
