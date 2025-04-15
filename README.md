@@ -9,11 +9,8 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/3morning/3morning/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/3morning/3morning/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/3morning/3morning/output/pacman-contribution-graph.svg">
-</picture>
+[![MyAnimeList](https://upload.wikimedia.org/wikipedia/commons/7/7a/MyAnimeList_Logo.png)](https://myanimelist.net/profile/madrugada3_)
+
 
 
 ###
