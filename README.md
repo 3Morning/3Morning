@@ -1,7 +1,6 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀[![Typing SVG](https://readme-typing-svg.demolab.com?font=Mr+Dafoe&size=46&pause=1000&color=FFFFFF&background=2200FF00&center=true&vCenter=true&multiline=true&repeat=false&width=440&height=112&lines=i%C2%B4m%E2%A0%80Morning)](https://git.io/typing-svg)
 
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀[![Static Badge](https://img.shields.io/badge/madrugada3__-blue?style=for-the-badge&logo=myanimelist&logoSize=auto)](https://img.shields.io/badge/madrugada3__-blue?logo=myanimelist&logoSize=auto&link=https%3A%2F%2Fmyanimelist.net%2Fprofile%2Fmadrugada3_
-)
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<img alt="Static Badge" src="https://img.shields.io/badge/madrugada3__-blue?style=for-the-badge&logo=myanimelist&logoSize=auto&link=https%3A%2F%2Fmyanimelist.net%2Fprofile%2Fmadrugada3_">
 
 <details align="center">
     <summary>
