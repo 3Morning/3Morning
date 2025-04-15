@@ -9,6 +9,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/3morning/3morning/output/snake.svg" alt="Snake animation" />
+[![MyAnimeList Watching](https://mal-readme-stats.vercel.app/api/watching?username=madrugada3_)](https://myanimelist.net/profile/madrugada3_)
+
 
 ###
